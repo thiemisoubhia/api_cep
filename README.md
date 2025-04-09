@@ -1,6 +1,7 @@
 # 📍 ViaCEP API Lookup Service
 
 A simple and elegant RESTful API built with Spring Boot that fetches address information from Brazilian postal codes (CEP) using the [ViaCEP API](https://viacep.com.br/).
+
 This project was created at Microservices classes.
 
 ---
@@ -74,7 +75,7 @@ Password: (empty)
 JDBC URL: jdbc:h2:mem:testdb
 
 ---
-✨ Future Improvements
+## ✨ Future Improvements
 -  Input validation for CEP format
 -  Custom error messages
 -  Caching requests
